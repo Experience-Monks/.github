@@ -33,7 +33,7 @@ We follow [semantic versioning](http://semver.org/). We release patch versions f
 
 We tag every pull request with a label marking whether the change should go in the next patch, minor, or a major version.
 
-Every significant change is documented in the [changelog file](CHANGELOG.md).
+Every significant change should be documented in the CHANGELOG.md
 
 ## Bugs
 
